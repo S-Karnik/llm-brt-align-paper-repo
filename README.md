@@ -294,12 +294,10 @@ The same alignment entry point runs the baselines by changing
 ## Citation
 
 ```bibtex
-@article{karnik2026preemptive,
-  title   = {Preemptive Detection and Steering of {LLM} Misalignment via Latent Reachability},
-  author  = {Karnik, Sathwik and Bansal, Somil},
-  journal = {Transactions on Machine Learning Research},
-  issn    = {2835-8856},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2509.21528}
+@article{karnik2025preemptive,
+  title={Preemptive detection and steering of llm misalignment via latent reachability},
+  author={Karnik, Sathwik and Bansal, Somil},
+  journal={arXiv preprint arXiv:2509.21528},
+  year={2025}
 }
 ```
