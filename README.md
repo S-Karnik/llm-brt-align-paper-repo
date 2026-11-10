@@ -295,7 +295,7 @@ The same alignment entry point runs the baselines by changing
 
 ```bibtex
 @article{karnik2025preemptive,
-  title={Preemptive detection and steering of llm misalignment via latent reachability},
+  title={Preemptive Detection and Steering of {LLM} Misalignment via Latent Reachability},
   author={Karnik, Sathwik and Bansal, Somil},
   journal={arXiv preprint arXiv:2509.21528},
   year={2025}
