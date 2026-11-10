@@ -1,5 +1,11 @@
 # BRT-Align Reproducibility Code
 
+**Preemptive Detection and Steering of LLM Misalignment via Latent Reachability**\
+Sathwik Karnik, Somil Bansal\
+Safe and Intelligent Autonomy Lab, Stanford University
+
+Accepted at Transactions on Machine Learning Research (TMLR), 2026.
+
 This supplementary contains the code needed to reproduce the paper's data
 generation, monitor training, inference-time alignment, runtime-monitoring
 evaluation, and LLM-as-judge evaluation.
@@ -284,3 +290,16 @@ The same alignment entry point runs the baselines by changing
 `--aligner_type` and the corresponding method-specific flags:
 `--aligner_type sap` for SaP, `--aligner_type recontrol` for Re-Control, and
 `--brt_type sample_brt` with the Sample-BRT checkpoint for Sample-BRT-Align.
+
+## Citation
+
+```bibtex
+@article{karnik2026preemptive,
+  title   = {Preemptive Detection and Steering of {LLM} Misalignment via Latent Reachability},
+  author  = {Karnik, Sathwik and Bansal, Somil},
+  journal = {Transactions on Machine Learning Research},
+  issn    = {2835-8856},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2509.21528}
+}
+```
